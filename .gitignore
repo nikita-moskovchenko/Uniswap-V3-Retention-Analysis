@@ -1,0 +1,6 @@
+# Ignore the large data file that was removed from history
+uniswap_v3_retention_data.xlsx
+
+# General ignores for common temporary/OS files
+.DS_Store
+*.pyc
